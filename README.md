@@ -1,5 +1,5 @@
 # sop-2020
-Try learning microservices architecture! sine
+Try learning microservices architecture!
 
 # name
 พวกเราอยากจะทำ community สำหรับคนรักขนมโดยที่ได้มาแบ่งบันเรื่องราวดี ๆ เกี่ยวกับขนมที่ตัวเองทำ หรือแบ่งบันสูตรที่ตัวเองภูมิใจ หรืออยากจะนำขนมที่ตัวเองทำมาขายบน platform
